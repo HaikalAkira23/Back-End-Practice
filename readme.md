@@ -1,2 +1,2 @@
 hello
-Hello my name is Haikal
+Hello my name is Haikal, i am a programmer
